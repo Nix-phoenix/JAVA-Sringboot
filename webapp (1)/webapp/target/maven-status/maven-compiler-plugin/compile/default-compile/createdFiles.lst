@@ -1,0 +1,7 @@
+com\bmt\webapp\controller\ClientControllers.class
+com\bmt\webapp\repositories\ClientRepository.class
+com\bmt\webapp\WebappApplication.class
+com\bmt\webapp\controller\HomeController.class
+com\bmt\webapp\data\ClientData.class
+com\bmt\webapp\model\Client.class
+com\bmt\webapp\model\ClientDto.class
